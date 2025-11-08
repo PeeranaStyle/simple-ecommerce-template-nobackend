@@ -26,7 +26,7 @@ A modern E-commerce template for IT and electronics online stores, built with Re
 
 ```bash
 git clone https://github.com/PeeranaStyle/simple-ecommerce-template-nobackend
-cd ecommerce
+cd <path to file>
 ```
 
 2. **Install Dependencies**
